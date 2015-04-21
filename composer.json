@@ -1,0 +1,25 @@
+{
+    "name": "netsket/sf-doctrine-master-slave-plugin",
+    "description": "Easily manage master and slave database connections",
+    "keywords": ["symfony1", "plugin", "doctrine", "master-slave"],
+    "license": "MIT",
+    "type": "symfony1-plugin",
+    "authors": [
+        {
+            "name": "Kris Wallsmith",
+            "email": "kris.wallsmith@symfony-project.com"
+        },
+        {
+            "name": "Issei Murasawa",
+            "email": "issei.m7@gmail.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.1-dev"
+        }
+    }
+}
